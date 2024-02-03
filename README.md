@@ -1,6 +1,6 @@
-# Demo
+# FarelRA Profile Link
 
-[![Demo](https://ardacarofficial-links-website.pages.dev/readme.png 'Demo')](https://ardacarofficial-links-website.pages.dev/)
+[![Demo](https://ardacarofficial-links-website.pages.dev/readme.png 'Demo')](https://farelra.github.io/profile)
 
 
 # Install
